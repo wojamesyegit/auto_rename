@@ -14,7 +14,7 @@ import os
 url_request="http://dm-58.data.aliyun.com/rest/160601/ocr/ocr_business_license.json"
 url_idcard = "http://dm-51.data.aliyun.com/rest/160601/ocr/ocr_idcard.json"
 path = './licenses'
-AppCode = "13f1214aadc047d2999d4298d9a12091"
+AppCode = "your_code"
 ecode = "{\"name\":\"!!Fail!!\"}"
 
 headers = {
